@@ -1,0 +1,7 @@
+../Core/Src/platform.c:18:9:VL53L4CX_RdDWord	32	static
+../Core/Src/platform.c:33:9:VL53L4CX_RdWord	32	static
+../Core/Src/platform.c:47:9:VL53L4CX_RdByte	32	static
+../Core/Src/platform.c:61:9:VL53L4CX_WrByte	32	static
+../Core/Src/platform.c:73:9:VL53L4CX_WrWord	32	static
+../Core/Src/platform.c:85:9:VL53L4CX_WrDWord	32	static
+../Core/Src/platform.c:100:6:WaitMs	16	static
